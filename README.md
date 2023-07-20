@@ -2,7 +2,7 @@
 
 > Pronounce it [denve:r], not [denvər]. It’s an español word 😂
 
-![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=hajun-myoung&theme=dark&background=000000)(https://git.io/streak-stats)
+![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=hajun-myoung&theme=dark&background=000000)
 
 - 📝 Notion : [My profile on Notion](https://fe-dev-denver.notion.site/Hola-DENVER-e58b3ac4e5e9464ea7ef537957a2e4ad)
 - 📧 Email : [fe.dev.denver@gmail.com](mailto:fe.dev.denver@gmail.com)
