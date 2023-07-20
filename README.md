@@ -2,8 +2,6 @@
 
 > Pronounce it [denve:r], not [denvər]. It’s an español word 😂
 
-## Who am I | 소개
-
 - 📝 Notion : [My profile on Notion](https://fe-dev-denver.notion.site/Hola-DENVER-e58b3ac4e5e9464ea7ef537957a2e4ad)
 - 📧 Email : [fe.dev.denver@gmail.com](mailto:fe.dev.denver@gmail.com)
 - 🌌 Instagram : [@dev_hajun](https://www.instagram.com/dev_hajun/)
