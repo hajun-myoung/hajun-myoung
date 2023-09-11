@@ -8,8 +8,8 @@
 [![Hajun's trophy](https://github-profile-trophy.vercel.app/?username=hajun-myoung&theme=onedark&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## About the "Top Lang(Most used languages)"  
-- Hidden languages: Jupyter Notebook, HTML, and CSS.
+- Hidden languages: Jupyter Notebook, HTML, and CSS
 
 ### Why are those hidden? 
-- Jupyter Notebook: Showen by top lang. But it is not my primary lang.
-- HTML and CSS: Not programming or a scripting language.
+- Jupyter Notebook: Showen by top lang. But it is not my primary lang
+- HTML and CSS: Not programming or a scripting language
