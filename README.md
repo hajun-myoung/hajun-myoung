@@ -15,3 +15,9 @@
 
 - Jupyter Notebook: Showen by top lang. But it is not my primary lang
 - HTML and CSS: Not programming or a scripting language
+
+### Testing new
+
+![Stats](./profile/stats.svg)
+![Top Languages](./profile/top-langs.svg)
+![Pinned](./profile/pin-stats-organization-github-readme-stats.svg)
